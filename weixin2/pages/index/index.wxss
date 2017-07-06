@@ -1,0 +1,10 @@
+/**index.wxss**/
+.container {
+  height: 100vh; /*vh整个屏幕的高度*/
+  width: 100%;
+}
+#ofoMap {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
